@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center}.circle{border:8px solid blue;border-radius:50%;box-sizing:border-box}.circle,.cross{height:90px;width:90px}.cross{position:relative;transform:rotate(45deg)}.cross:after,.cross:before{background-color:red;content:"";position:absolute}.cross:before{height:100%;left:50%;margin-left:-15%;width:30%}.cross:after{height:30%;margin-top:-15%;top:50%;width:100%}
+/*# sourceMappingURL=main.3d5e3697.css.map*/
